@@ -92,23 +92,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LIEMYITQ
 
 [Document4]
-DocumentPath=Routado.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SBWBCTLU
-
-[Document5]
 DocumentPath=Project.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,6 +107,31 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RQLNDCBY
+
+[Document5]
+DocumentPath=DEMO.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QGKAKDDV
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RADIO_DEMO\Design Rule Check - DEMO.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for RADIO_DEMO\Design Rule Check - Routado.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
